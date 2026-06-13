@@ -1,6 +1,8 @@
-#  **A.I LIST**
+#  **A.I LIST & USEFUL WEBSITE FOR DAILY UTILITY**
 
-###  TAGS : A.I, GITHUB REPOSITORY,
+###   READ ME : IF YOU SEE THIS, PLEASE LEAVE A STAR, FORK AND DISCUSS IF YOU HAVE MORE A.I THAT UNLISTED HERE, I'LL ALWAYS UPDATE EVERY I FOUND A COOL/POWERFUL AI. ありがとう ~
+
+####  TAGS : ***A.I, GITHUB REPOSITORY, PUB***
 
 ###  1. ChatGPT
 ***Utility : General Use, Thinker, Generate Image, etc.***
@@ -50,27 +52,44 @@
 ###  15. yt-dlp
 ***Utility : A feature-rich command-line audio/video downloader.***-
    - https://github.com/yt-dlp/yt-dlp.git
-###  10. 
+###  16. Swishy AI
+***Utility : AI-powered animation tool that helps you create short videos quickly and easily..***-
+   - https://www.swishy.ai/
+###  17. Vercel
+***Utility : Free Hosting & Domain.***-
+   - https://vercel.com/
+###  18. DigitalPlatDev / FreeDomain
+***Utility : Free Domain.***-
+   - https://github.com/DigitalPlatDev/FreeDomain.git
+###  19. Stich Google AI
+***Utility : UI/UX Design.***-
+   - https://stitch.withgoogle.com/
+###  20. Delphi Tools
+***Utility : MUCH TOOLS FOR FREE, NO LOGIN, NO REGIST, NO DATA COLLECTION.***-
+   - https://delphi.tools/
+###  21. 21st Dev
+***Utility : Generate Front-End.***-
+   - https://21st.dev/community/components
+###  22. SHADCN UI
+***Utility : A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code..***-
+   - https://ui.shadcn.com/
+   - https://github.com/shadcn-ui/ui.git
+###  23. Front End Design (By Claude Anthropic)
+***Utility : Front-End Design.***-
+   - https://claude.com/plugins/frontend-design
+###  26. UI/UX PRO MAX
+***Utility : AI SKILL that provide design intelligence for building professional UI/UX multiple platforms.***-
+   - https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git
+   - https://ui-ux-pro-max-skill.nextlevelbuilder.io/
+###  27. Convly
+***Utility : Auto-reply to comments, capture leads, and deliver resources, 24/7, while you sleep..***-
+   - https://www.convly.my.id/
+###  23. 
 ***Utility : .***-
    - 
-###  10. 
+###  23. 
 ***Utility : .***-
    - 
-###  10. 
-***Utility : .***-
-   - 
-###  10. 
-***Utility : .***-
-   - 
-###  10. 
-***Utility : .***-
-   - 
-###  10. 
-***Utility : .***-
-   - 
-###  10. 
-***Utility : .***-
-   - 
-###  10. 
+###  23. 
 ***Utility : .***-
    - 
