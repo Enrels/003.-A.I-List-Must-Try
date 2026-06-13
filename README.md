@@ -87,6 +87,19 @@
 ###  28. MeiGen AI
 ***Utility : Search for Prompting & Generate Image.***-
    - https://www.meigen.ai/
+###  29. Chandra OCR
+***Utility : OCR model that handles complex tables, forms, handwriting with full layout..***-
+   - https://github.com/datalab-to/chandra.git
+   - www.datalab.to
+###  00. 
+***Utility : .***-
+   - 
+###  00. 
+***Utility : .***-
+   - 
+###  00. 
+***Utility : .***-
+   - 
 ###  00. 
 ***Utility : .***-
    - 
