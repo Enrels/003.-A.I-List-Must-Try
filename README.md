@@ -77,26 +77,26 @@
 ###  23. Front End Design (By Claude Anthropic)
 ***Utility : Front-End Design.***-
    - https://claude.com/plugins/frontend-design
-###  26. UI/UX PRO MAX
+###  24. UI/UX PRO MAX
 ***Utility : AI SKILL that provide design intelligence for building professional UI/UX multiple platforms.***-
    - https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git
    - https://ui-ux-pro-max-skill.nextlevelbuilder.io/
-###  27. Convly
+###  25. Convly
 ***Utility : Auto-reply to comments, capture leads, and deliver resources, 24/7, while you sleep..***-
    - https://www.convly.my.id/
-###  28. MeiGen AI
+###  26. MeiGen AI
 ***Utility : Search for Prompting & Generate Image.***-
    - https://www.meigen.ai/
-###  29. Chandra OCR
+###  27. Chandra OCR
 ***Utility : OCR model that handles complex tables, forms, handwriting with full layout..***-
    - https://github.com/datalab-to/chandra.git
    - www.datalab.to
-###  00. 
-***Utility : .***-
-   - 
-###  00. 
-***Utility : .***-
-   - 
+###  28. Microsoft Copilot
+***Utility : Daily Use.***-
+   - https://copilot.microsoft.com/
+###  29. GitHub Copilot
+***Utility : Fixing Repository, Debugging, Troubleshoot, etc.***-
+   - https://github.com/copilot
 ###  00. 
 ***Utility : .***-
    - 
