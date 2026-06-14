@@ -97,12 +97,120 @@
 ###  29. GitHub Copilot
 ***Utility : Fixing Repository, Debugging, Troubleshoot, etc.***-
    - https://github.com/copilot
-###  00. 
-***Utility : .***-
+###  30. Unicorn Studio
+***Utility : Create jaw-dropping interactive motion assets in minutes — no code. Embed with a few clicks..***-
+   - https://www.unicorn.studio/
+   - https://github.com/hiunicornstudio/unicornstudio.js.git
+###  31. Context 7
+***Utility : for LLMs and AI code editors.***-
+   - https://context7.com/
+   - https://github.com/upstash/context7.git
+###  32 . AutoHedge AI by **The-Swarm-Corporation**
+***Utility : Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution..***-
+   - https://github.com/The-Swarm-Corporation/AutoHedge.git
+###  33. VibeTrading AI by **HKUDS**
+***Utility : Your Personal Trading Agent.***-
+   - https://github.com/HKUDS/Vibe-Trading.git
+###  34. Fincept Terminal (Bloomberg Alternate) by Fincept Corporation
+***Utility : Bloomberg Alternate.***-
+   - https://github.com/Fincept-Corporation/FinceptTerminal.git
+###  35. LibreChat AI
+***Utility : Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. .***-
+   - https://github.com/danny-avila/LibreChat.git
+###  36. Open Higgsfield AI
+***Utility : Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.***-
+   - https://github.com/Anil-matcha/Open-Generative-AI.git
+###  37. Open LLM VTuber
+***Utility : Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms.***-
+   - https://github.com/Open-LLM-VTuber/Open-LLM-VTuber.git
+###  38. Claude Ads
+***Utility : Comprehensive paid advertising audit & optimization skill for Claude Code. 250+ checks across Google, Meta, YouTube, LinkedIn, TikTok, Microsoft & Apple Ads with weighted scoring, parallel agents, industry templates, and AI creative generation..***-
+   - https://github.com/AgriciDaniel/claude-ads.git
+###  39. Agentic Inbox by Cloudflare
+***Utility : A self-hosted email client with an AI agent, running entirely on Cloudflare Workers.***-
+   - https://github.com/cloudflare/agentic-inbox.git
+###  40. Camofox Browser
+***Utility : Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement..***-
+   - https://github.com/jo-inc/camofox-browser.git
+###  41. Hyperframes AI
+***Utility : Write HTML. Render video. Built for agents..***-
+   - https://github.com/heygen-com/hyperframes.git
+###  42. VidRush AI
+***Utility :  VidRush is a platform that allows you to create stunning videos with the power of A.***-
+   - https://www.vidrush.ai/
+   - https://github.com/vidrush
+###  43. Spline Design
+***Utility : creating realtime 3D design experiences.***-
+   - https://spline.design/
+###  44. Manus AI 
+***Utility : AI agents as the Action Engine.***-
+   - https://manus.im/
+###  45. Landing Love
+***Utility : Animation Websites.***-
+   - https://www.landing.love/
+###  46. OmniVoice-Studio by ElevenLabs
+***Utility : The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App.***-
+   - https://github.com/debpalash/OmniVoice-Studio.git
+   - https://palash.dev/omnivoice/
+###  47. Ruflo AI by ruvnet
+***Utility : The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration.***-
+   - https://github.com/ruvnet/ruflo.git
+###  48. Goose by aaif (Jack Dorsey)
+***Utility : an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM.***-
+   - https://github.com/aaif-goose/goose.git
+###  49. OpenHands AI
+***Utility : OpenHands: AI-Driven Development.***-
+   - https://github.com/OpenHands/OpenHands.git
+###  50. Hermes Agent AI
+***Utility : Self-improving AI assistant***-
+   - https://github.com/NousResearch/hermes-agent.git
+###  51. Crew AI
+***Utility : Teams of AI agents working together***-
+   - https://crewai.com/
+   - https://github.com/crewAIInc/crewAI.git
+###  52. **Public APIs**
+***Utility : A collective list of free APIs***-
+   - https://github.com/public-apis/public-apis.git
+###  53. Aider AI
+***Utility : AI coding partner in your terminal***-
+   - https://github.com/Aider-AI/aider.git
+###  54. LangGraph Agent AI
+***Utility : Build resilient agents.***-
+   - https://www.langchain.com/langgraph
+   - https://github.com/langchain-ai/langgraph.git
+###  55. Awesome MCP Servers
+***Utility : About A collection of MCP servers.***-
+   - https://github.com/punkpeye/awesome-mcp-servers.git
+###  56. Claude Task Master
+***Utility : An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others***-
+   - https://github.com/eyaltoledano/claude-task-master.git
+###  57. Understand-Anything
+***Utility : Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.***-
+   - https://github.com/Egonex-AI/Understand-Anything.git
+###  58.
+***Utility : ***-
    - 
-###  00. 
-***Utility : .***-
+###  59.
+***Utility : ***-
    - 
-###  00. 
-***Utility : .***-
+###  50.
+***Utility : ***-
+   - 
+###  50.
+***Utility : ***-
+   - 
+###  50.
+***Utility : ***-
+   - 
+###  50.
+***Utility : ***-
+   - 
+###  50.
+***Utility : ***-
+   - 
+###  50.
+***Utility : ***-
+   - 
+###  50.
+***Utility : ***-
    - 
