@@ -262,14 +262,14 @@
 ###  79. Aceternity UI
 ***Utility : 200+ production-ready components, blocks and templates that make your site feel like you hired a design team. Copy, paste, customize, no wrestling with Framer Motion animations or Tailwind styling***-
    - https://ui.aceternity.com/
-###  80. UIVERSER by galaxy
+###  80. UIVERSE by galaxy
 ***Utility : Community-built library of UI elements. Copy as HTML/CSS, Tailwind, React and Figma.***-
    - https://github.com/uiverse-io/galaxy.git
    - https://uiverse.io/
 ###  81. Getdesign.md
 ***Utility : Built with real depth for high-quality UI generation, not surface-level.***-
    - https://getdesign.md/
-###  82. Clypra (CapCupt ALTERNATE / OPEN SOURCE)
+###  82. Clypra (CapCut ALTERNATE / OPEN SOURCE)
 ***Utility : A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities***-
    - https://github.com/AIEraDev/Clypra.git
 ###  83. 
