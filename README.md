@@ -2,6 +2,8 @@
 
 ###   READ ME : IF YOU SEE THIS, PLEASE LEAVE A STAR, FORK AND DISCUSS IF YOU HAVE MORE A.I THAT UNLISTED HERE, I'LL ALWAYS UPDATE EVERY I FOUND A COOL/POWERFUL AI. ありがとう ~
 
+###   NOTE : ***DO YOUR OWN RESEARCH.***
+
 ####  TAGS : ***A.I, GITHUB REPOSITORY, PUB***
 
 ###  1. ChatGPT
@@ -187,30 +189,110 @@
 ###  57. Understand-Anything
 ***Utility : Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.***-
    - https://github.com/Egonex-AI/Understand-Anything.git
-###  58.
+###  58. Codegraph
+***Utility : Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local***-
+   - https://github.com/colbymchenry/codegraph.git
+###  59. ECC
+***Utility : The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.***-
+   - https://github.com/affaan-m/ECC.git
+###  60. taste-skill
+***Utility : Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop***-
+   - https://github.com/Leonxlnx/taste-skill.git
+###  61. Knowledge Work Plugins
+***Utility : Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork***-
+   - https://github.com/anthropics/knowledge-work-plugins.git
+###  62. Anthropic Cybersecurity Skills 
+***Utility : 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0***-
+   - https://github.com/anthropics/claude-code-security-review.git
+   - https://github.com/mukul975/Anthropic-Cybersecurity-Skills.git (this one)
+###  63. Academic Research Skills
+***Utility : Academic Research Skills for Claude Code: research → write → review → revise → finalize***-
+   - https://github.com/Imbad0202/academic-research-skills.git
+###  64. Pi Agent AI
+***Utility : AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI***-
+   - https://github.com/earendil-works/pi.git
+###  65. Anthropic Skills Agent
+***Utility : Public repository for Agent Skills***-
+   - https://github.com/anthropics/skills.git
+###  66. Gemma 4 12b by Google
+***Utility : Run Google's Gemma 4 12B locally on any 8GB RAM laptop. Download the free, 1-click optimized installer for Windows and macOS. 1M context window included.***-
+   - https://github.com/gemma-4-12b-app/gemma-4-12b.git
+###  67. Motion Sites AI
+***Utility : Build beautiful landing pages in minutes with our ready-to-use prompts. Just copy, paste, and launch.***-
+   - https://motionsites.ai/
+   - https://github.com/trvanthanhhmaster-spec/motionsites-prompts.git
+###  68. Wegic AI
+***Utility : Build a Website***-
+   - https://wegic.ai/
+###  69. Relumo AI
+***Utility : AI that plans your whole site first — sitemap, wireframes, copy — then exports to Figma or Webflow.***-
+   - https://www.relume.io/
+###  70. Freamer AI
+***Utility : Build better sites, faster***-
+   - https://www.framer.com/
+###  71. Trickle AI
+***Utility : Turn your ideas into live apps and websites with AI***-
+   - https://trickle.so/
+###  72. Langflow Tools Deployment
+***Utility : Langflow is a powerful tool for building and deploying AI-powered agents and workflows.***-
+   - https://github.com/langflow-ai/langflow.git
+###  73. Vane
+***Utility : Vane is an AI-powered answering engine.***-
+   - https://github.com/ItzCrazyKns/Vane.git
+###  74. Dify
+***Utility : Production-ready platform for agentic workflow development.***-
+   - https://github.com/langgenius/dify.git
+   - https://dify.ai/
+###  75. Comfy UI
+***Utility : The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.***-
+   - https://github.com/Comfy-Org/ComfyUI-Manager.git
+   - https://comfy.org/download/
+###  76. Skills.sh
+***Utility : Skills are reusable capabilities for AI agents. Install them with a single command to enhance your agents with access to procedural knowledge.***-
+   - https://www.skills.sh/
+###  77. Reactbits.Dev
+***Utility : An open source collection of animated, interactive & fully customizable React components for building memorable websites.***-
+   - https://reactbits.dev/
+   - https://github.com/DavidHDev/react-bits.git
+###  78. Styles Refero Design
+***Utility : Browse 2,000+ AI-readable design systems from leading product websites. Open any style for colors, typography, spacing, components, and a DESIGN.md you can use in Cursor, Claude Code, Codex, v0, or Lovable.***-
+   - https://styles.refero.design/
+   - https://github.com/fidgetcoding/refero-design-mcp.git
+   - https://github.com/referodesign/refero_skill.git
+###  79. Aceternity UI
+***Utility : 200+ production-ready components, blocks and templates that make your site feel like you hired a design team. Copy, paste, customize, no wrestling with Framer Motion animations or Tailwind styling***-
+   - https://ui.aceternity.com/
+###  80. UIVERSER by galaxy
+***Utility : Community-built library of UI elements. Copy as HTML/CSS, Tailwind, React and Figma.***-
+   - https://github.com/uiverse-io/galaxy.git
+   - https://uiverse.io/
+###  81. Getdesign.md
+***Utility : Built with real depth for high-quality UI generation, not surface-level.***-
+   - https://getdesign.md/
+###  82. Clypra (CapCupt ALTERNATE / OPEN SOURCE)
+***Utility : A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities***-
+   - https://github.com/AIEraDev/Clypra.git
+###  83. 
 ***Utility : ***-
    - 
-###  59.
+###  84. 
 ***Utility : ***-
    - 
-###  50.
+###  85. 
 ***Utility : ***-
    - 
-###  50.
+###  80. 
 ***Utility : ***-
    - 
-###  50.
+###  80. 
 ***Utility : ***-
    - 
-###  50.
+###  80. 
 ***Utility : ***-
    - 
-###  50.
+###  80. 
 ***Utility : ***-
    - 
-###  50.
-***Utility : ***-
-   - 
-###  50.
+###  80. 
 ***Utility : ***-
    - 
