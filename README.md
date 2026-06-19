@@ -272,12 +272,12 @@
 ###  82. Clypra (CapCut ALTERNATE / OPEN SOURCE)
 ***Utility : A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities***-
    - https://github.com/AIEraDev/Clypra.git
-###  83. 
-***Utility : ***-
-   - 
-###  84. 
-***Utility : ***-
-   - 
+###  83. OpenClaude Portable (you can install it with USB Drive)
+***Utility : Run Claude Code from a USB drive on any PC — no installation required.***-
+   - https://github.com/techjarves/OpenClaude-Portable.git
+###  84. OpenJarvis AI
+***Utility : Personal AI, On Personal Devices***-
+   - https://github.com/open-jarvis/OpenJarvis.git
 ###  85. 
 ***Utility : ***-
    - 
